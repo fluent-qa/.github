@@ -17,7 +17,7 @@ Here is advantage of QA to do so:
 1. Have overall view of the system,process, etc.
 2. More details experienced,more different teams to work with
 
-The disadvantage is that you might have not good enough coding skill.
+The disadvantage is that you might have not good enough coding skill. So let's improve ourself.
 
 <!--
 

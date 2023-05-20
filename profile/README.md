@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Fluent-QA is focused on doing QA/Software Testing practical. 
+Fluent-QA is focused on doing Development/QA/Software Testing practical.
 
 Practical in Fluent-QA means:
 

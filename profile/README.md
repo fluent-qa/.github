@@ -10,8 +10,6 @@ Practical in Fluent-QA means:
 - No Perfect solution only trade-off
 - Better understanding of both reality and tech to work out
 
-I'm from China without any oversea experience. My English is not fluent, but I hope codes can tell something else.
-
 Practical also means Not only as QA but also doing anything to help solving issues you faced. 
 Here is advantage of QA to do so:
 1. Have overall view of the system,process, etc.

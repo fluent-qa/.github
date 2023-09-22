@@ -12,8 +12,8 @@ Practical in Fluent-QA means:
 
 Practical also means Not only as QA but also doing anything to help solving issues you faced. 
 Why QA can do so:
-1. Have overall view of the system,process, etc.
-2. More details oriented,more different teams to work with
+1. Have overview of the system,process, etc.
+2. More different teams to work with, more detail oriented, more experience in handling different teams' interest
 
 Why QA can't do so:
 

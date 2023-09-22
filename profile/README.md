@@ -11,11 +11,15 @@ Practical in Fluent-QA means:
 - Better understanding of both reality and tech to work out
 
 Practical also means Not only as QA but also doing anything to help solving issues you faced. 
-Here is advantage of QA to do so:
+Why QA can do so:
 1. Have overall view of the system,process, etc.
-2. More details experienced,more different teams to work with
+2. More details oriented,more different teams to work with
 
-The disadvantage is that you might have not good enough coding skill. So let's improve ourself.
+Why QA can't do so:
+
+-  you might have not good enough coding skill.
+
+So let's improve ourself.
 
 <!--
 

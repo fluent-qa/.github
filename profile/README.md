@@ -3,6 +3,11 @@
 Fluent-QA is focused on doing Development/QA/Software Testing practically.
 Fluent-QA is also for telling the real stories about Software QA in Chinese Companies.
 
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fluent-qa/count.svg" />
+</p>
+
 ***Practical in Fluent-QA means:***
 
 - Different circumstances, different solutions
